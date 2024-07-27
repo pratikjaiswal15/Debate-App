@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "686831845008",
+    "firebase_url": "https://debate-discuss.firebaseio.com",
+    "project_id": "debate-discuss",
+    "storage_bucket": "debate-discuss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686831845008:android:32551777f2b3b41d23e215",
+        "android_client_info": {
+          "package_name": "com.mobiledebate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686831845008-49n0islj74uesg69dattqhq6lp61su7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobiledebate",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "686831845008-vbipr0q7rv3bgck40gsj79rsrnkcorta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1jOQUMha7GCe_UZar1x3syWUecKEftk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686831845008-vbipr0q7rv3bgck40gsj79rsrnkcorta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
